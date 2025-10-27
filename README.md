@@ -2,7 +2,7 @@
 
 A comprehensive, interactive web-based investment calculator that helps users plan their portfolio allocation using low-cost index funds and ETFs. Features detailed growth projections, stress testing, crisis scenarios, and professional PDF/email reports.
 
-![Investment Calculator](https://img.shields.io/badge/Version-1.0-blue) ![License](https://img.shields.io/badge/License-MIT-green)
+![Investment Calculator]
 
 ## 🌟 Features
 
